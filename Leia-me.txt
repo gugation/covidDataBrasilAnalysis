@@ -1,0 +1,4 @@
+Para a solução, foram realizadas duas etapas: A primeira consistiu em carregar os dados de um .csv com as informações nacionais sobre o Covid-19. 
+
+Para realizar esta etapa, foi utilizada a plataforma jupyter-notebook utilizando a linguagem python e a biblioteca de manipulação de dados Pandas. Nesta etapa, foram realizadas as etapas de limpeza e organização dos dados, diminuindo o espaço que a planilha final ocupou e deixando mais eficientes as operações na mesma.
+A segunda etapa consistiu em utilizar a plataforma Qlik Sense para a melhor visualização dos dados. Com ela, foram criados gráficos, planilhas, índices de avaliação e um mapa com as cidades infectadas.
